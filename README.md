@@ -17,13 +17,6 @@ Hi, I'm Hadley!
 - Python Code Design.  
 - Open-source community.  
 
-## My Setup 🖥️  
-- **Processor:** Ryzen 3200G  
-- **Graphics:** NVIDIA RTX 3050 GPU  
-- **Storage:** 1TB Windows SSD, 1TB HDD, 500GB Linux (Pop!_OS) Boot SSD  
-- **Memory:** 16GB RAM  
-- **Case:** CoolerMaster TD300 MESH  
-
 # Let’s innovate together! 🚀  
 
 
